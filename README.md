@@ -1,8 +1,8 @@
 
-![example image1](https://github.com/Feida-Meng/react-native-infinite-flatlist/tree/master/assets/images/dogs.gif)
-![example image2](https://github.com/Feida-Meng/react-native-infinite-flatlist/tree/master/assets/images/timer.gif)
-![example image2](https://github.com/Feida-Meng/react-native-infinite-flatlist/tree/master/assets/images/sun.gif)
-![example image2](https://github.com/Feida-Meng/react-native-infinite-flatlist/tree/master/assets/images/timer.gif)
+![dogs](assets/images/dogs.gif)
+![timer](assets/images/timer.gif)
+![sun](assets/images/sun.gif)
+![number](assets/images/numbers.gif)
 
 # Installation
 `npm i @feida_meng/react-native-infinite-flatlist`
@@ -11,7 +11,7 @@
 
 ## Example 1
 
-![example image2](https://github.com/Feida-Meng/react-native-infinite-flatlist/tree/master/assets/images/example1.gif)
+![example image1](assets/images/example1.gif)
 
 ```javascript
 import {
@@ -95,7 +95,7 @@ export default class InfiniteFlatListEg1 extends Component {
 
 ## Example 2
 
-![example image1](https://github.com/Feida-Meng/react-native-infinite-flatlist/tree/master/assets/images/dogs.gif)
+![dogs](assets/images/dogs.gif)
 
 ```javascript
 
@@ -183,7 +183,7 @@ export default class InfiniteFlatListEg2 extends Component {
 
 ## example 3
 
-![example image2](https://github.com/Feida-Meng/react-native-infinite-flatlist/tree/master/assets/images/sun.gif)
+![sun](assets/images/sun.gif)
 
 
 ```javascript
@@ -354,7 +354,7 @@ export default class InfiniteFlatListEg3 extends Component {
 
 # Props
 
-Inherits ScrollView Props
+Inherits flatlist props
 
 | Name                           | Type          | Default/Required | Description                          |  
 | ------------------------------ |---------------| ---------------- | ------------------------             |
