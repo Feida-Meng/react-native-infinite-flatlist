@@ -1,6 +1,6 @@
 {
   "name": "@feida_meng/react-native-infinite-flatlist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Infinite React Native Flatlist, working for both horizontal and vertical direction",
   "main": "src/index.js",
   "scripts": {
@@ -28,6 +28,10 @@
     "ios",
     "android"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Feida-Meng/react-native-infinite-flatlist"
+  },
   "peerDependencies": {
     "react": ">=15.0.0",
     "react-native": "*"
